@@ -1,0 +1,8 @@
+name: Flappy Bird
+description: A sample flappy bird
+author: tsetsee <tsetsee_yugi@yahoo.com>
+homepage: http://www.tsetsee-life.blogspot.com
+version: 1.0.0
+dependencies:
+  browser: ">=0.9.1"
+  uuid: 0.3.0
